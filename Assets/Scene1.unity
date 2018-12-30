@@ -302,6 +302,7 @@ GameObject:
   - component: {fileID: 1223349558}
   - component: {fileID: 1223349560}
   - component: {fileID: 1223349561}
+  - component: {fileID: 1223349562}
   m_Layer: 0
   m_Name: AR Session Origin
   m_TagString: Untagged
@@ -366,6 +367,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PointCloudPrefab: {fileID: 1854016325464908, guid: 0d4f49e744bffd14eb527ba76c9bba12,
     type: 3}
+--- !u!114 &1223349562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1223349557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5359d5f13250e4485741ed685a32be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PlacedPrefab: {fileID: 100004, guid: 63ae12abc50414d5c882dbe18f6a820b, type: 3}
 --- !u!1 &1850631803
 GameObject:
   m_ObjectHideFlags: 0
