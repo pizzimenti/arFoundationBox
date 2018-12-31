@@ -13,5 +13,7 @@ This version uses an experimental build of AR Foundation (v1-preview22)
 Any console errors are likely due to changes in the AR Foundation framework which can be updated from the Unity Package Mananger in the Window menu.
 
 ### License
-Copyright (C) Bradley Pizzimenti / Gennaker Systems LLC
+
+Copyright 2018 Bradley Pizzimenti / Gennaker Systems LLC
+
 This software is licensed under the MIT License
