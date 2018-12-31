@@ -1,5 +1,5 @@
 # arFoundationBox
-Unity project utilizing AR Foundation for display of Autodesk Fusion 360 assets
+## Unity project utilizing AR Foundation for display of Autodesk Fusion 360 assets
 
 This Unity project will build to either iOS or Android by utilizing AR Foundation
 
@@ -11,3 +11,7 @@ This Unity project will build to either iOS or Android by utilizing AR Foundatio
 
 This version uses an experimental build of AR Foundation (v1-preview22)
 Any console errors are likely due to changes in the AR Foundation framework which can be updated from the Unity Package Mananger in the Window menu.
+
+### License
+Copyright (C) Bradley Pizzimenti / Gennaker Systems LLC
+This software is licensed under the MIT License
