@@ -5,16 +5,16 @@ This Unity project will build to either iOS or Android by utilizing AR Foundatio
 
 ### Installation
 
-* Clone the repo and open it in Unity 2017.3 or later
-* Build platform should be Android by default, if not, change it in build settings or if you desire to build to an iPhone/iPad...
-* Change your build platform to iOS (Unity for macOS and XCode 10 required)
-* Ensure that your device is setup for developer builds
+* Clone the repo and open it in Unity 2018.3 or later
+* Open the project and load arScene.unity into the editor
+* Change your build platform to Android or to iOS (note iOS build requires Unity for macOS and XCode 10)
+* Ensure that your device is setup for developer builds and connect it by USB
 * Build and Run
 
 ### Requirements
 
-* iPhone 6S+ running iOS 11+, macOS 10.12+ for build and deploy
-* Android device running Android 7+
+* iPhone 6S+ running iOS 11+ (macOS 10.12+ for build platform)
+* Android device running Android 7+ (build from Mac or Windows)
 
 ### Troubleshooting
 
