@@ -24,4 +24,5 @@ Any console errors are likely due to changes in the AR Foundation framework whic
 ### License
 
 Copyright 2018 Bradley Pizzimenti / Gennaker Systems LLC
+
 This software is licensed under the MIT License
